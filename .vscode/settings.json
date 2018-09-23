@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "~/dev/python/mydev/mydev/bin/python3.6",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": ["--extension-pkg-whitelist=torch,cv2"],
+  "python.formatting.provider": "yapf"
+}
