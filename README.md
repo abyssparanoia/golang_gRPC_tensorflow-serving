@@ -1,7 +1,5 @@
 # prototyping of tensorflow-serving
 
-====
-
 ## Overview
 - tensorflow-serving + golang + gRPC
 
